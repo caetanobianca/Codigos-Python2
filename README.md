@@ -1,2 +1,2 @@
-# test02
+# Python
 Primeiro código em Python
